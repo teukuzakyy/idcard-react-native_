@@ -3,7 +3,7 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](src="assets/screenshot_tampilan.jpg")
+<img src="assets/images/screenshot_tampilan.jpg" width="300" alt="Preview Aplikasi" />
 
 # ID Card React Native
 
